@@ -1,4 +1,4 @@
-###### &#x20;**Object Detection with YOLOv5 and YOLOv8**
+**Object Detection with YOLOv5 and YOLOv8**
 
 
 
@@ -187,6 +187,4 @@ model.train(data="data.yaml", epochs=50, imgsz=640)
 **Author**
 
 Chukwuemeka Chimamanda — Student \& aspiring AI/ML engineer
-
-&#x20; 
 
